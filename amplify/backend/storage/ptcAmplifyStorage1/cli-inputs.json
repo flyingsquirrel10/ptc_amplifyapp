@@ -1,0 +1,14 @@
+{
+  "resourceName": "ptcAmplifyStorage1",
+  "policyUUID": "0f70258a",
+  "bucketName": "ptcamplifyapp3c930340fb0a4ad290e27e26cc087daa",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
