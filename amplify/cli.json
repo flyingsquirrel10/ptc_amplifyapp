@@ -7,10 +7,7 @@
       "useexperimentalpipelinedtransformer": true,
       "enableiterativegsiupdates": true,
       "secondarykeyasgsi": true,
-      "skipoverridemutationinputtypes": true,
-      "transformerversion": 2,
-      "suppressschemamigrationprompt": true,
-      "securityenhancementnotification": false
+      "skipoverridemutationinputtypes": true
     },
     "frontend-ios": {
       "enablexcodeintegration": true
